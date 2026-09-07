@@ -2,7 +2,7 @@
 
 A Python-based attendance management system that uses **face detection and face recognition** to automatically identify registered individuals and record their attendance digitally.
 
-## 🎓 Project Information
+## 🎓 Project Information:
 
 * **Project Type:** Mini Project
 * **Subject:** Computer Vision
